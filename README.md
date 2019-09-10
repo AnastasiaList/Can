@@ -6,3 +6,4 @@ Faculty of Information Technology.
 Design of Electronic and Web-publications.
 Second course.
 Group №9.
+~("^_^")~
