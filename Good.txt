@@ -5,3 +5,7 @@ Sky.
 Dog.
 Cat.
 Bird.
+******
+Apple.
+Orange.
+Banana.
